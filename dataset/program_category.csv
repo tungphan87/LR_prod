@@ -1,0 +1,37 @@
+program,Category,Customer-Facing Name,Generation
+Athena,Screens,Echo Show 8 (2nd Gen),2
+Baker,Headless,Amazon Echo Dot Kids Version,1
+Biscuit,Headless,Amazon Echo Dot,1
+Biscuit2,Headless,Amazon Echo Dot,2
+Bishop,Screens,Echo Show (2nd Gen),2
+Brownie,Headless,Echo Dot (4th Gen),4
+Brownie_LED,Headless,Echo Dot Kids (next gen),4
+Checkers,Screens,Echo Show 5,1
+Croissant,Headless,Echo Flex,1
+Crown,Screens,Echo Show 8,1
+Crumpet,Headless,Echo Dot (3rd Gen),3
+Cupcake,Headless,Echo Input,1
+Doebrite,Headless,Echo Dot (3rd Gen) with Clock,3
+Donut,Headless,Amazon Echo Dot,3
+Doppler,Headless,Amazon Echo,1
+Fox,Headless,Amazon Tap,1
+Knight,Screens,Echo Show,1
+Laser,Headless,Echo (4th Gen),4
+Lidar,Headless,Echo Plus (2nd Gen),2
+Muffin,On_the_Go,Echo Auto,1
+Muffin2,On_the_Go,Echo Auto,2
+Octave,Headless,Echo Studio,1
+Pancake,Headless,Amazon Echo Dot,1
+Pascal,Headless,Echo (3rd Gen),3
+Powell,On_the_Go,Echo Buds (2nd Gen),2
+Puget,On_the_Go,Echo Buds,1
+Radar,Headless,Echo 2nd,2
+Radar2,Headless,Echo 2nd,2
+Radar3,Headless,Echo 2nd,2
+Rook,Screens,Echo Spot,1
+Sonar,Headless,Echo Plus,1
+Sonar2,Headless,Echo Plus,2
+Theia,Screens,Echo Show (3rd Gen),3
+Zephyr,On_the_Go,Echo Frames,
+Ganache,Headless,Echo Dot (4th Gen) with Clock,4
+Hark,On_the_Go,Echo Loop,
